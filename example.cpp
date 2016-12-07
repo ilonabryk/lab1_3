@@ -41,7 +41,7 @@ float example::get_C()
 
 float example::get_D()
 {
-	return (sin(x)*sin(x) + tan(z)*tan(z));
+	return (sin(z)*sin(z) + tan(z));
 }
 
 float example::sum()

@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
 	obj.set_example(x,y,z);
 	obj.sum();
 	print(obj);
-	
+
 	system("pause");
 	return 0;
 }
