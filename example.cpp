@@ -1,3 +1,4 @@
+//Lab1_2
 #include "example.h"
 #include <math.h>
 #include <iostream>
